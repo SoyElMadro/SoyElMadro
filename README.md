@@ -13,6 +13,11 @@
   💼 <a href="https://www.linkedin.com/in/madro">LinkedIn</a>
 </p>
 
+<div align="center">
+
+   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31r4f23um3wdghkvl77qcqufcrtu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
 ---
 
 ## 🧰 My Tech Stack
