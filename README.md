@@ -71,7 +71,7 @@
 > Automates documentation using Gemini AI for cleaner, more maintainable code.  
 • **Tech:** Next.js · TypeScript · Tailwind CSS · ShadCN UI · AI integration  
 
-### [USA2 Reventas](https://usa2-reventa.vercel.app)  
+### [USA2 Reventas](https://usa2-reventa.vercel.app) ¡THIS IS A WORK!
 > Marketplace for premium second-hand products.  
 • **Tech:** Next.js · TypeScript · Tailwind CSS · MongoDB · Cloudinary  
 
@@ -83,9 +83,9 @@
 > Fun browser game to boost your typing speed.  
 • **Tech:** HTML · CSS · JavaScript  
 
-### [Secure Password Generator](https://darling-sawine-61aa4f.netlify.app)  
-> Generate custom, strong passwords in seconds.  
-• **Tech:** HTML · CSS · JavaScript  
+### [InfiniTech Studios](https://infinitechstudios.vercel.app/) ¡THIS IS A WORK!
+> indie team that develop games that inspire, entertain, and make a difference.  
+• **Tech:** Next.js · TypeScript · Tailwind CSS · Vercel
 
 ---
 
