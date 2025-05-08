@@ -70,27 +70,32 @@
 ### [CodeDoc AI](https://codedoc-ai.vercel.app/)  
 > Automates documentation using Gemini AI for cleaner, more maintainable code.  
 • **Tech:** Next.js · TypeScript · Tailwind CSS · ShadCN UI · AI integration
-> [Code](https://github.com/SoyElMadro/CodeDoc-AI)
+
+[Code](https://github.com/SoyElMadro/CodeDoc-AI)
 
 ### [USA2 Reventas](https://usa2-reventa.vercel.app) --WORK--
 > Marketplace for premium second-hand products.  
 • **Tech:** Next.js · TypeScript · Tailwind CSS · MongoDB · Cloudinary
-> Code no available
+
+Code no available
 
 ### [Expenses Tracker](https://expenses-tracker-chi-gray.vercel.app)  
 > Track daily expenses with logs & charts; includes dark mode.  
 • **Tech:** Next.js · Tailwind CSS · localStorage
-> [Code](https://github.com/SoyElMadro/expenses-tracker)
+
+[Code](https://github.com/SoyElMadro/expenses-tracker)
 
 ### [Typing Game](https://65a429e9e7ac41aa2ac30bca--chimerical-quokka-ccd05e.netlify.app)  
 > Fun browser game to boost your typing speed.  
 • **Tech:** HTML · CSS · JavaScript
-> [Code](https://github.com/SoyElMadro/typing-game)
+
+[Code](https://github.com/SoyElMadro/typing-game)
 
 ### [InfiniTech Studios](https://infinitechstudios.vercel.app/) --WORK--
 > indie team that develop games that inspire, entertain, and make a difference.  
 • **Tech:** Next.js · TypeScript · Tailwind CSS · Vercel
-> Code no available
+
+Code no available
 
 ---
 
