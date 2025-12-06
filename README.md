@@ -89,9 +89,9 @@
 > indie team that develop games that inspire, entertain, and make a difference.  
 • **Tech:** Next.js · TypeScript · Tailwind CSS · Vercel
 
-### [WatchNext](https://mdrwatchnext.vercel.app)
+### [WatchNext](https://mdrwatchnext.netlify.app)
 > A web application specifically designed to help users discover new movies and TV shows.<br>
-• **Tech:** Next.js · React · JavaScript · Tailwind CSS · Vercel
+• **Tech:** Next.js · React · JavaScript · Tailwind CSS · Vite
 > [Code](https://github.com/SoyElMadro/watchnext)
 
 ---
