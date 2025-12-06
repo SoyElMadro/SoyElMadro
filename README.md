@@ -47,6 +47,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 </div>
 
 <!-- Databases & Tools -->
@@ -55,9 +56,7 @@
   
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
   ![Cloudinary](https://img.shields.io/badge/Cloudinary-3548BB?style=flat&logo=cloudinary&logoColor=white)
 </div>
@@ -90,10 +89,16 @@
 > indie team that develop games that inspire, entertain, and make a difference.  
 • **Tech:** Next.js · TypeScript · Tailwind CSS · Vercel
 
+### [WatchNext](https://mdrwatchnext.vercel.app)
+> A web application specifically designed to help users discover new movies and TV shows.<br>
+• **Tech:** Next.js · React · JavaScript · Tailwind CSS · Vercel
+> [Code](https://github.com/SoyElMadro/watchnext)
+
 ---
 
 ## 🎓 Education & Certifications
-- **Universidad Tecnológica Nacional**: University Technical Degree in Programming (current)  
+- **Universidad Tecnológica Nacional**: University Technical Degree in Programming (current)
+  > Note: First year completed (8/8 subjects passed by promotion) with an average grade above 8.5/10.
 - **Certifications:**  
   - [Mobile Application Development with Kotlin (Intensive)](certifications/Certificado_AP_apps-moviles.pdf)  
   - [Python Development (Federal)](certifications/Certificado_AP_desarrollo-python.pdf)  
