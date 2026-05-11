@@ -75,10 +75,10 @@
 > Marketplace for premium second-hand products.  
 • **Tech:** Next.js · TypeScript · Tailwind CSS · MongoDB · Cloudinary
 
-### [Expenses Tracker](https://expenses-tracker-chi-gray.vercel.app)  
-> Track daily expenses with logs & charts; includes dark mode.  
-• **Tech:** Next.js · Tailwind CSS · localStorage
-> [Code](https://github.com/SoyElMadro/expenses-tracker)
+### [FinTrack](https://soyelmadro.github.io/fintrack/)  
+> Full-featured personal finance manager with income/expense tracking, interactive charts, budget management, multi-wallet support, and dark mode.
+• **Tech:** JavaScript · localStorage
+> [Code](https://github.com/SoyElMadro/fintrack)
 
 ### [Typing Game](https://65a429e9e7ac41aa2ac30bca--chimerical-quokka-ccd05e.netlify.app)  
 > Fun browser game to boost your typing speed.  
