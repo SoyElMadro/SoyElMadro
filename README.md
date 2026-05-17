@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://portafoliomadro.vercel.app/en">Portfolio</a> • 
+  🌐 <a href="https://soyelmadro.github.io/portafolio">Portfolio</a> • 
   💼 <a href="https://www.linkedin.com/in/madro">LinkedIn</a>
 </p>
 
